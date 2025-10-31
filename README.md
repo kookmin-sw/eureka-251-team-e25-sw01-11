@@ -31,11 +31,9 @@
 
 
 <!-- 활동 사진 추가 예시 -->
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-13-09-09-960x651.jpg?text=활동사진1" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/14/2017-08-14-20-51-02-960x640.jpg?text=활동사진2" width="330" height="190"/>
-<img src="https://pixnio.com/free-images/2017/08/15/2017-08-15-10-05-39-960x640.jpg?text=활동사진3" width="330" height="190"/>
+<img src="https://ibb.co/x8LPv5Gx"/>
 
-https://drive.google.com/file/d/1rrsBcJ5A9KHqDAq3kA0dqQllmPCnqZgX/view?usp=drivesdk
+https://drive.google.com/file/d/1r0TkS8Tnzor_sbpVL8pXyhm_Eri4EbHW/view?usp=drivesdk
 
 ***
 
