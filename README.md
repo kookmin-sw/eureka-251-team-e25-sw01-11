@@ -31,7 +31,7 @@
 
 
 <!-- 활동 사진 추가 예시 -->
-<img src="https://ibb.co/x8LPv5Gx"/>
+[![undefined.png](https://i.postimg.cc/nc1N69j5/undefined.png)](https://postimg.cc/xccsmCPy)
 
 https://drive.google.com/file/d/1r0TkS8Tnzor_sbpVL8pXyhm_Eri4EbHW/view?usp=drivesdk
 
