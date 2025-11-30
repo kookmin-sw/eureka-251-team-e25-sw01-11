@@ -57,6 +57,15 @@ https://drive.google.com/file/d/1r0TkS8Tnzor_sbpVL8pXyhm_Eri4EbHW/view?usp=drive
 &nbsp;
 &nbsp;
 
+### 지도교수님 만나기
+
+배홍균 교수님
+
+[![image.png](https://i.postimg.cc/3JmSJf7W/image.png)](https://postimg.cc/0b5dVfzq)
+
+&nbsp;
+&nbsp;
+
 ***
 &nbsp;
 &nbsp;
